@@ -1,5 +1,14 @@
 # hello-world
 My first repository in GitHub
 
-About time to learn something new.
+==About time to learn something new.==
+
+  _    _      _ _   __          __        _     _   
+ | |  | |    | | |  \ \        / /       | |   | |  
+ | |__| | ___| | | __\ \  /\  / /__  _ __| | __| |  
+ |  __  |/ _ \ | |/ _ \ \/  \/ / _ \| '__| |/ _` |  
+ | |  | |  __/ | | (_) \  /\  / (_) | |  | | (_| |  
+ |_|  |_|\___|_|_|\___/ \/  \/ \___/|_|  |_|\__,_|  
+                                                  
+                                                  
                                                  
